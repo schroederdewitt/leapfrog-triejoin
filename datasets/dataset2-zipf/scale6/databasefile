@@ -1,0 +1,8 @@
+P.tbl, P, A
+Q.tbl, Q, A
+R.tbl, R, A, B, X,
+S.tbl, S, A, C, Y,
+T.tbl, T, B, C, Z,
+U.tbl, U, X, D,
+V.tbl, V, Y, E,
+W.tbl, W, Z, F,

@@ -1,0 +1,9 @@
+clpc129[~/teaching/dsi/exam/ht13/data/dataset1-uniform/scale2]$ wc *.tbl 
+ 2000  2000 11764 P.tbl
+ 2000  2000 11748 Q.tbl
+ 1728  1728 17674 R.tbl
+ 1728  1728 17703 S.tbl
+ 1728  1728 17742 T.tbl
+  144   144  1033 U.tbl
+  144   144  1036 V.tbl
+  144   144  1034 W.tbl
