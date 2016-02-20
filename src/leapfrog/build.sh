@@ -1,0 +1,1 @@
+g++ -std=c++0x -o leapfrog ../leapFrogTrieJoin/leapFrogTrieJoin.cpp ../trieIterator/trieIterator.cpp ../linearIterator/linearIterator.cpp ../cmdArgs/cmdArgs.cpp ../globalFunctions/globalFunctions.cpp ../benchmark/benchmark.cpp  main.cpp

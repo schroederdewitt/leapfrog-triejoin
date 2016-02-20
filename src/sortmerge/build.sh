@@ -1,0 +1,1 @@
+g++ -std=c++0x -o sortmerge ../sortMergeMultiway/sortMergeMultiway.cpp ../simpleIterator/simpleIterator.cpp ../cmdArgs/cmdArgs.cpp ../globalFunctions/globalFunctions.cpp ../benchmark/benchmark.cpp ../multiIterator/multiIterator.cpp  main.cpp
